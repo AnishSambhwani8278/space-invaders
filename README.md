@@ -17,7 +17,7 @@ This is a classic arcade-style game written in Java where you control a spaceshi
 ## How to Play 🎮
 
 1. **Download the game** by clicking the link below:  
-   [Download the game](#) (You'll get a `.zip` file)
+   [Download the game](https://www.dropbox.com/scl/fi/zow71l3996t2rpjg3svzc/SpaceInvaders.zip?rlkey=0kvdi8qyh9jvvmgdelllfjf58&st=1rvs0og6&dl=0) (You'll get a `.zip` file)
 
 2. **Extract the `.zip` file** to a folder.
 
